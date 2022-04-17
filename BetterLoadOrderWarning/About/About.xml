@@ -1,0 +1,23 @@
+<ModMetaData>
+	<name>BetterLoadOrderWarning</name>
+	<author>MaverickMartyn</author>
+    <packageId>MaverickMartyn.BetterLoadOrderWarning</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>Whenever you load a save with a different mod setup, this displays the changes in an easy to read way.
+Source code: https://github.com/MaverickMartyn/RimWorld-BLOW.
+	</description>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2796007290</url>
+	<modDependencies>
+		<li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib</displayName>
+			<downloadUrl>https://github.com/UnlimitedHugs/RimworldHugsLib/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>UnlimitedHugs.HugsLib</li>
+	</loadAfter>
+</ModMetaData>

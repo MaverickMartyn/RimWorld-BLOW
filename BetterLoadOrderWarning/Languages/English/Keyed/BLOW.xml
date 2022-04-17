@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- Save game incompatible warning -->
+  <BLOWModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\n</BLOWModsMismatchWarningText>
+  <BLOWLoadedMods>File was saved with (in this order):</BLOWLoadedMods>
+  <BLOWRunningMods>We are running with (in this order):</BLOWRunningMods>
+  <BLOWMissingMod>{0} is no longer enabled.</BLOWMissingMod>
+  <BLOWNewMod>{0} is new to this save.</BLOWNewMod>
+</LanguageData>
